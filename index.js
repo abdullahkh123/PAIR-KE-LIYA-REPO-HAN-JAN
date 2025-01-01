@@ -164,7 +164,7 @@ async function startnigg(phone) {
           await xlicon.sendMessage(
             xlicon.user.id,
             {
-              text: '*HELLO THERE! 👋* \n\n*DO NOT SHARE YOUR SESSION ID WITH ANYONE.*\n\n*PUT THE ABOVE IN SESSION_ID VAR*\n\n*THANKS FOR USING PANHWAR-MD BOT*\n\n *JOIN SUPPORT CHANNEL:-* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*\n',
+              text: '*HELLO THERE! 👋* \n\n*DO NOT SHARE YOUR SESSION ID WITH ANYONE.*\n\n*PUT THE ABOVE IN SESSION_ID VAR*\n\n*THANKS FOR USING ABDULLAH-KING-MD BOT*\n\n *JOIN SUPPORT CHANNEL:-* *https://whatsapp.com/channel/0029VauRrf0DOQIUMFSnDZ24*\n',
             },
             { quoted: guru }
           )
